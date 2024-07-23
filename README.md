@@ -8,4 +8,4 @@ cd PomodoroApp
 npm install @react-native-async-storage/async-storage @react-navigation/native @react-navigation/stack react-native-screens react-native-safe-area-context
 
 # Lancer le projet
-npm expo start
+npm expo start or npm start
